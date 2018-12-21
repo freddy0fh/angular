@@ -1,0 +1,22 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "angular plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "angular"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freddy0fh/angular.git"
+  },
+  "keywords": [
+    "angualñr"
+  ],
+  "author": "fca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freddy0fh/angular/issues"
+  },
+  "homepage": "https://github.com/freddy0fh/angular#readme"
+}
